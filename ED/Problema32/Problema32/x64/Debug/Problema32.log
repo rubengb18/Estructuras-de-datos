@@ -1,0 +1,21 @@
+﻿  1.NumeroCasos.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\utility(123): warning C4267: 'inicializando': conversión de 'size_t' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+  D:\ED\Problema32\Problema32\1.NumeroCasos.cpp(54): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<std::string,int>::pair<_Ty1&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' que se está compilando
+          with
+          [
+              _Ty1=std::string,
+              _Other1=const std::string &,
+              _Other2=unsigned __int64
+          ]
+  D:\ED\Problema32\Problema32\1.NumeroCasos.cpp(54): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<std::string,int>::pair<_Ty1&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' que se está compilando
+          with
+          [
+              _Ty1=std::string,
+              _Other1=const std::string &,
+              _Other2=unsigned __int64
+          ]
+  Problema32.vcxproj -> D:\ED\Problema32\x64\Debug\Problema32.exe

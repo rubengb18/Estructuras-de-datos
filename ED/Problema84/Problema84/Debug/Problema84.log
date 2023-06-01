@@ -1,0 +1,3 @@
+﻿  1.NumeroCasos.cpp
+R:\ED\Problema84\Problema84\1.NumeroCasos.cpp(60,22): error C2664: 'tRes funcion(bintree<char>,int &)': el argumento 2 no puede convertirse de 'int' a 'int &'
+R:\ED\Problema84\Problema84\1.NumeroCasos.cpp(19,6): message : vea la declaración de 'funcion'

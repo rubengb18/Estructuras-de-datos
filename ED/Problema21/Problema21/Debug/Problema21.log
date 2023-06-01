@@ -1,0 +1,4 @@
+﻿  1.NumeroCasos.cpp
+R:\ED\Problema21\Problema21\bintree_eda.h(87): warning C4715: 'bintree<int>::calcularMin': no todas las rutas de acceso de control devuelven un valor
+R:\ED\Problema21\Problema21\bintree_eda.h(87): warning C4715: 'bintree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::calcularMin': no todas las rutas de acceso de control devuelven un valor
+  Problema21.vcxproj -> R:\ED\Problema21\Debug\Problema21.exe

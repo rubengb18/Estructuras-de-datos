@@ -1,0 +1,5 @@
+﻿  1.NumeroCasos.cpp
+R:\ED\Problema27\Problema27\1.NumeroCasos.cpp(20,12): warning C4018: '<': no coinciden signed/unsigned
+R:\ED\Problema27\Problema27\1.NumeroCasos.cpp(24,12): warning C4018: '<': no coinciden signed/unsigned
+R:\ED\Problema27\Problema27\1.NumeroCasos.cpp(55,20): warning C4018: '<': no coinciden signed/unsigned
+  Problema27.vcxproj -> R:\ED\Problema27\Debug\Problema27.exe
